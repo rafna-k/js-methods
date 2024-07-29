@@ -29,8 +29,8 @@
 //     [4,"sanu",100],
 //     [5,"sachu",300]
 // ]
-// console.log(arr.reduce((a,b)=>a[2]<b[2]? a:b))
-// console.log(arr.reduceRight((a,b)=>a[2]<b[2]? a:b))
+console.log(arr.reduce((a,b)=>a[2]<b[2]? a:b))
+console.log(arr.reduceRight((a,b)=>a[2]<b[2]? a:b))
 
 
 
